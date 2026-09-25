@@ -12,6 +12,13 @@
 
 A professional console-based multi-subject examination management system implemented in Java. It manages student profiles, multiple subject examinations, attempts, question-wise evaluation, previous student records, topic performance and academic analytics.
 
+## System Flowchart
+
+The following flowchart represents the complete workflow of the REVA Smart Multi-Subject Examination System, including student registration, subject selection, examination, answer evaluation, result generation, attempt history, and academic analytics.
+
+<p align="center">
+  <img src="Java%20Examination-2026-09-25-071440.png" alt="REVA Smart Multi-Subject Examination System Flowchart" width="1000">
+</p>
 ### Included Subjects
 
 1. Java Programming
