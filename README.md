@@ -19,6 +19,7 @@ The following flowchart represents the complete workflow of the REVA Smart Multi
 <p align="center">
   <img src="Java%20Examination-2026-09-25-071440.png" alt="REVA Smart Multi-Subject Examination System Flowchart" width="1000">
 </p>
+
 ### Included Subjects
 
 1. Java Programming
