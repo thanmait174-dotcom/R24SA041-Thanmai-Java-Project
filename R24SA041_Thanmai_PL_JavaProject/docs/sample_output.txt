@@ -1,0 +1,36 @@
+REVA ONLINE EXAMINATION SYSTEM
+Java Programming | Unit I & II
+
+Student: Thanmai P L
+SRN: R24SA041
+
+EXAM RESULT
+Score         : 8/10
+Percentage    : 80.00%
+Grade         : A
+Correct       : 8
+Wrong         : 2
+Unanswered    : 0
+Status        : PASS
+
+QUESTION-WISE REVIEW
+Q1 [CORRECT]
+Question      : Which keyword is used to inherit a class in Java?
+Your Answer   : extends
+Correct Answer: extends
+
+Q2 [WRONG]
+Question      : Which concept binds data and methods into a single unit?
+Your Answer   : Abstraction
+Correct Answer: Encapsulation
+
+PREVIOUS ATTEMPTS
+R24SA041 | Thanmai P L | 8/10 | 80.00% | PASS
+
+EXAMINATION ANALYTICS
+Registered students : 1
+Total attempts      : 1
+Average percentage  : 80.00%
+Highest score       : 8
+Lowest score        : 8
+Pass rate           : 100.00%
