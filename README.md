@@ -143,3 +143,67 @@ run.bat
 ```
 
 The project has been compiled and tested with the included source code.
+
+## Project Output Screenshots
+
+### 1. Main Menu
+![Main Menu](menu.png)
+
+### 2. Student Registration
+![Student Registration](registration.png)
+
+### 3. Subject Selection
+![Subject Selection](selection.png)
+
+### 4. Examination
+![Examination](exam.png)
+
+### 5. Detailed Result
+![Detailed Result](details.png)
+
+### 6. Examination Results
+![Examination Results](results.png)
+
+### 7. Previous Attempts
+![Previous Attempts](attempts.png)
+
+### 8. Student Review
+![Student Review](review.png)
+
+### 9. Student Search
+![Student Search](search.png)
+
+### 10. Subject Information
+![Subject Information](subject.png)
+
+### 11. Overall Analytics
+![Overall Analytics](overall.png)
+
+### 12. Student Performance
+![Student Performance](performance.png)
+
+### 13. Question Performance
+![Question Performance](questions.png)
+
+### 14. Transcript
+![Transcript](transcript.png)
+
+### 15. Goodbye Screen
+![Goodbye Screen](goodbye.png)
+
+### 16. Analytics Dashboard
+![Analytics Dashboard](analytics.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
